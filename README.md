@@ -8,7 +8,7 @@ Includes my contact details, professinal links and short info about me.
 ## Demo
 ![The demonstration](images/digital-business-card.png)
 
-Test it on Netlify: https://dancing-paprenjak-379200.netlify.app/
+Test it on Netlify: https://loquacious-platypus-a1ea68.netlify.app/
 
 ## Technologies
 The project is built using:
