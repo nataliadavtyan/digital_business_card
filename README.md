@@ -8,7 +8,7 @@ Includes my contact details, professinal links and short info about me.
 ## Demo
 ![The demonstration](images/digital-business-card.png)
 
-Test it on Netlify: https://loquacious-platypus-a1ea68.netlify.app/
+Test it on Netlify: https://digital-business-card-natalia-davtyan.netlify.app/
 
 ## Technologies
 The project is built using:
