@@ -3,7 +3,7 @@
 Personal digital business card
 
 ## Features
-Includes my contact details, professinal links and short info about me.
+Includes my contact details, professional links and short info about me.
 
 ## Demo
 ![The demonstration](images/digital-business-card.png)
